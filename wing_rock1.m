@@ -8,7 +8,7 @@ c3=0.1;
 c4=-1;
 c5=-0.6;
 c6=-0.02;
-alpha=0.8; %angle of attack
+alpha=0.435; %angle of attack
 
  fa=c1*sin(alpha)+c2*cos(alpha);
  ga=sin(alpha)*(c3*sin(alpha).^2+(c4+c2)*sin(alpha)*cos(alpha)-0.5*c1*cos(alpha).^2);
