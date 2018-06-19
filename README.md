@@ -1,2 +1,6 @@
 # 2229-Assignment-3
-这是2229（dynamic simulation）的第三个assignment，模拟飞机运行时的稳定状态。
+
+It's the 3rd assignment of 2229 dynamic simulation.
+
+WE do the project to simulate plane wing rock and movement.
+
